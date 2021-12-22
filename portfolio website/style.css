@@ -305,7 +305,8 @@ header .navbar ul li a:hover{
 
 
 .blog{
-    margin: 12px 12px;
+    height: 20rem;
+    width:26rem;
 }
 .blog > h2{
  display: flex;
