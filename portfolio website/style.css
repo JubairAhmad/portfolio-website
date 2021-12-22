@@ -303,6 +303,15 @@ header .navbar ul li a:hover{
     transform: scale(1.2);
 }
 
+
+.blog{
+    margin: 12px 12px;
+}
+.blog > h2{
+ display: flex;
+ justify-content: center;
+}
+
 .contact .row{
     display: flex;
     align-items: center;
